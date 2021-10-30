@@ -75,7 +75,7 @@ python3 bot.py
 </details>
 
 
-## Admin commands
+## commands
 ```
 • /logs - to get the rescent errors
 • /stats - to get status of files in db.
